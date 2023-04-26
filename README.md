@@ -1,3 +1,5 @@
-# calculadora_imc
+# Calculadora IMC
 
-A new Flutter project.
+A flutter project, only for study purpose.
+
+Code made on class.
